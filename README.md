@@ -1,5 +1,12 @@
 ### Hi there 👋
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kaewdisorn&theme=navy-gear)](https://git.io/streak-stats)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kaewdisorn-naphakositphaisal-9909331b0">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kaewdisorn&theme=navy-gear)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaewdisorn&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages :
 <div>
