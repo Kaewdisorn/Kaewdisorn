@@ -1,6 +1,7 @@
 # Hi there 👋
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kaewdisorn&theme=navy-gear)](https://git.io/streak-stats)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kaewdisorn&theme=navy-gear)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaewdisorn&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaewdisorn&langs_count=15&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :hammer_and_wrench: Stack
