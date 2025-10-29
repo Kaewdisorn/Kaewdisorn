@@ -1,8 +1,6 @@
 # Hi there 👋
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kaewdisorn&theme=navy-gear)](https://git.io/streak-stats)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaewdisorn&show_icons=true&theme=algolia)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaewdisorn&layout=compact&theme=algolia)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaewdisorn&show_icons=true&theme=algolia) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaewdisorn&layout=compact&theme=algolia)
 
 ---
 
