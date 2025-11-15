@@ -23,6 +23,9 @@
 | ﻿Web Servers/Load Balancing | <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/HAProxy-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Varnish-pink?style=for-the-badge" />
 |:---------|:-------|
 
+| ﻿﻿Software Architecture | <img src="https://img.shields.io/badge/﻿Monolithic-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/﻿Microservices-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/﻿Clean_Architecture-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/MVC-brown?style=for-the-badge" />
+|:---------|:-------|
+
 
 
 
