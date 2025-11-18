@@ -26,8 +26,3 @@
 | ﻿﻿Software Architecture | <img src="https://img.shields.io/badge/﻿Monolithic-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/﻿Microservices-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/﻿Clean_Architecture-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/MVC-brown?style=for-the-badge" />
 |:---------|:-------|
 
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaewdisorn&layout=compact&theme=algolia)
-
